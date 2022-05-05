@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/flobizBillBook/static/css/main.1f2e21d6.css",
+    "main.js": "/flobizBillBook/static/js/main.f518809b.js",
+    "static/js/787.19f32609.chunk.js": "/flobizBillBook/static/js/787.19f32609.chunk.js",
+    "static/media/Screenshot 2022-05-03 041829.png": "/flobizBillBook/static/media/Screenshot 2022-05-03 041829.6bda0ab1c0be4ef6380c.png",
+    "static/media/360_F_206446183_lySithb7utSi89CwZPBzb6uoBbPgtcwV.jpg": "/flobizBillBook/static/media/360_F_206446183_lySithb7utSi89CwZPBzb6uoBbPgtcwV.5d92de6bd8038ad1e5a9.jpg",
+    "index.html": "/flobizBillBook/index.html",
+    "main.1f2e21d6.css.map": "/flobizBillBook/static/css/main.1f2e21d6.css.map",
+    "main.f518809b.js.map": "/flobizBillBook/static/js/main.f518809b.js.map",
+    "787.19f32609.chunk.js.map": "/flobizBillBook/static/js/787.19f32609.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2e21d6.css",
+    "static/js/main.f518809b.js"
+  ]
+}
